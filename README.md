@@ -50,6 +50,8 @@ Replace this with a short intro about yourself and your business -->
 My exported n8n workflow files are in the `/workflows` folder.
 Each file is named by week — for example `week3.json`.
 
+[My workflow](workflows/MyWorkflow)
+
 ---
 
 ## My Prompts
