@@ -1,4 +1,4 @@
-# [Your Name] — Portfolio
+# Emilia Kyutt — Portfolio
 
 ## About Me
 Replace this with a short intro about yourself and your business -->
